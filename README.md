@@ -7,3 +7,13 @@ The dataset consists of movie theater reviews, with each entry containing two co
 ## Step 1: Data Exploration
 
 
+## Step 2: Modelling with different ML algorithms 
+
+## Step 3: Assessing ML algorithms
+
+## Step 4: Logistic regression with different Hyperparameter Tuning Combinations 
+
+## Step 5: Examining results from a business point of view
+
+## Step 6: Visualizing Correct predictions with Label 0 and 1
+
